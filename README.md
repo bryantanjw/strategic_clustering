@@ -1,5 +1,6 @@
 # Strategic Clustering for Establishing a Restaurant
-### Finding the optimal location to open an Asian restaurant in Toronto, Canada using k-Means Clustering
+
+**Objective**: Finding the optimal location to open an Asian restaurant in Toronto, Canada using k-Means Clustering
 
 The purpose for his Jupyter Notebook was intended for the IBM Applied Data Science Capstone Project.
 
